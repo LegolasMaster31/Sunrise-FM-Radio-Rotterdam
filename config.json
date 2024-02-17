@@ -19,7 +19,7 @@
 		"onesignal_app_id": ""
 	},
 	"ads": {
-		"ad_status": "1",
+		"ad_status": "0",
 		"ad_type": "admob",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-8894440334538768",
